@@ -1,6 +1,6 @@
 # 📥 YouTube Downloader com PyQt5 e yt-dlp
 
-![Interface do Aplicativo](./TelaYoutubeDownload/LayoutApp.png)
+![Interface do Aplicativo](./LayoutApp.png)
 
 Este projeto é um **aplicativo simples** de download de vídeos ou músicas do YouTube, com uma interface gráfica feita em **PyQt5** e utilizando a biblioteca `yt-dlp`. Ele foi criado com o objetivo de **estudo e testes práticos** sobre integração de bibliotecas com interfaces gráficas.
 
